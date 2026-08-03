@@ -2,7 +2,7 @@
 
 I am a systems-driven **Business Operations (BizOps) Leader** and **AI Practitioner** specializing in workflow automation, large-scale data hygiene, and agile team governance. Certified in AI Framework & Fluency by Anthropic, my work focuses on converting messy, unstructured enterprise data into high-velocity operational pipelines. 
 
-Beyond systems engineering, I am deeply engaged in structural research regarding AI market shaping, antitrust public policy, and building inclusive tech ecosystems—aligning my portfolio directly with the principles of the **Roosevelt Institute's GoodLife AI Fellowship framework**.
+Beyond systems engineering, I am deeply engaged in structural research regarding AI market shaping, antitrust public policy, and building inclusive tech ecosystems.
 
 ---
 
