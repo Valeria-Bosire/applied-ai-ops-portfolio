@@ -1,59 +1,32 @@
-# Case Study: Algorithmic Data Hygiene & High-Volume Unstructured Text Classification
+# Hi there, I'm an Applied AI Operations & BizOps Specialist 👋
 
-## 📌 Executive Summary
-* **Role:** Business Operations (BizOps) Specialist / Workflow Automation Lead
-* **Objective:** Streamline massive operational data bottlenecks by transforming thousands of rows of messy, unverified, and unstructured communication text into structured, actionable databases.
-* **Core Stack:** Claude LLM (Anthropic), Hunter.io API, Advanced Logic Frameworks
-* **Key Achievements:** 
-  * Compressed a multi-hour manual email text audit by **95%** using automated LLM text parsing.
-  * Insulated corporate outreach domains from blacklisting risks by dynamically validating **3,000+** cold records within seconds.
+I am a systems-driven **Business Operations (BizOps) Leader** and **AI Practitioner** specializing in workflow automation, large-scale data hygiene, and agile team governance. Certified in AI Framework & Fluency by Anthropic, my work focuses on converting messy, unstructured enterprise data into high-velocity operational pipelines. 
+
+Beyond systems engineering, I am deeply engaged in structural research regarding AI market shaping, antitrust public policy, and building inclusive tech ecosystems—aligning my portfolio directly with the principles of the **Roosevelt Institute's GoodLife AI Fellowship framework**.
 
 ---
 
-## 🛠️ Project 1: Automated Communication Triage Framework (2,000+ Records)
-
-### 🔴 The Operational Bottleneck
-The operations team required a deep retrospective audit of a historical database containing over 2,000 unstructured email files. The objective was to extract, classify, and isolate specific delivery signals: delivery failures (bounces), active inbound user inquiries, and automated out-of-office (OOO) sequences. Handling this manually would require hours of tedious review, introducing high rates of human error.
-
-### ⚙️ The Solution (LLM Orchestration)
-Instead of executing a manual review, I built a data pipeline by interfacing the unstructured communication dataset directly with the **Claude LLM framework**. I engineered a structured data classification prompt to instruct the model to act as a system parser.
-
-#### **The System Prompt Architecture Deployed:**
-```text
-You are a high-performance Data Operations Parser. Your task is to audit the following email dataset. 
-Analyze each record and classify it into exactly one of these four structural arrays:
-1. [BOUNCE] - Delivery failures, daemon rejections, or address drops.
-2. [INBOUND] - Active, manual replies or questions from human users.
-3. [OOO] - Automated out-of-office sequences or vacation responders.
-4. [OTHER] - Generic notifications.
-
-Output the results strictly as a structured tabular array containing: [Email ID], [Classification], and [Extracted Action Item]. Do not include conversational filler text.
-```
-
-### 📈 Measurable Business Impact
-* **Velocity:** Reduced data processing time from hours of manual labor down to a **3-minute automated execution**.
-* **Accuracy:** Maintained clean data integrity with zero missed data anomalies.
-* **Output:** Provided senior management with a structured, filtered reporting matrix outlining operational trends instantly.
+## 🛠️ Core Tech Stack & Competencies
+* **AI Orchestration & Prompting:** Claude LLM (Anthropic), Context-Aware System Prompting, Tool Integration.
+* **Data Architecture & Hygiene:** Baserow (Advanced Relational Formulas, Webhook Logic), Hunter.io API, HubSpot CRM Triage.
+* **Agile Project Management:** GitLab Maintenance, Jira Sprint Optimization, Pod Operations Leadership, SOP Onboarding Blueprints.
+* **Analytical Research Focus:** AI Market Consolidation, Anti-Monopoly Policy, Global South Digital Infrastructure (Perspectives from Kenya).
 
 ---
 
-## 🛠️ Project 2: Predictive Data Hygiene & Domain Risk Mitigation (3,000+ Contacts)
+## 📂 Featured Case Studies & Research Essays
 
-### 🔴 The Operational Bottleneck
-Before a high-priority corporate luncheon campaign, a cross-functional pod system (spanning 4 separate teams) was handed an unverified list of over 3,000 raw email contacts. Initial tests revealed an alarming surge in bounce rates. Proceeding with the campaign using dirty data posed an immediate threat to the company’s domain health, risking a permanent blacklist by major email service providers (Google, Microsoft).
+### 🤖 Applied AI Operations & Automation
+* **[Predictive Data Hygiene (5,100+ Contacts)](./predictive-data-hygiene.md):** Automated a massive partner HubSpot CRM database audit in under 10 minutes using Claude LLM, segmenting records into active, inactive, and dormant queues.
+* **[Automated Deal Intelligence & Matrix Mapping](./crm-icp-intelligence.md):** Orchestrated an LLM-driven market research pipeline to enrich 190 cold CRM accounts with complex Firm Type and AUM data metrics using corporate playbooks.
+* **[Enterprise Knowledge Base Architecture & Migration](./baserow-agile-ops.md):** Flawlessly migrated structured training data for 8 corporate brands from raw HTML into Outline, engineering custom Baserow formula engines and webhook triggers.
 
-### ⚙️ The Solution (Automated Verification Pipeline)
-I stopped the manual dispatch immediately and pulled the entire 3,000-row dataset into the **Hunter.io** validation engine. By leveraging automated list verification, I programmatically triaged the data into clear operational queues before a single email was sent.
-
-Messy Seed List (3,000+ Raw Rows) ]│▼[ Hunter.io Validation ]│┌──────────┼──────────┐▼          ▼          ▼[ Validated ] [Invalid] [Unknown]│          │          │▼          ▼          ▼(Safe Queue)  (Purged)   (Manual Verification)
-### 📈 Measurable Business Impact
-* **Infrastructure Safety:** Achieved a **0% domain-level reputation drop** by actively filtering out invalid emails before dispatch.
-* **Efficiency Gains:** Eliminated weeks of anticipated manual troubleshooting for the four outreach pods.
-* **Database Accuracy:** Delivered a completely scrubbed, functional lead asset that teams can re-use safely for future campaigns.
+### 📈 Policy & Reflective Essays
+* **[Building an AI Economy That Works for Everyone](./building-an-ai-economy.md):** An analytical paper exploring capital barriers to AI adoption, monopolistic computational gatekeeping, and macro-level infrastructure dependencies from a Global South operational perspective.
+* **[Reflections on Inclusive AI & Market Competition](./reflections-on-inclusive-ai.md):** A structural policy essay challenging concentrated tech cartel power and proposing antitrust utility solutions to dismantle academic credential barriers.
 
 ---
 
-## 💡 Core Competencies Demonstrated
-* **Tool Agility:** Rapid deployment of generative AI (Claude) and data intelligence tools (Hunter.io) to bypass operational road blocks.
-* **Data Auditing & Scale:** Capability to manipulate, digest, and structure data blocks exceeding several thousand lines of information.
-* **Risk Management:** Proactive isolation of domain blacklisting threats through predictive validation workflows.
+## 📧 Connect With Me
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/bosire-valeria]
+* 🎯 **Application Focus:** Open-Contract AI Fellowships, Civic Tech Innovations, & Applied AI Residencies (2027 Cohorts).
