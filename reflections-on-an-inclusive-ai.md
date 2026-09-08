@@ -47,11 +47,3 @@ My journey directly refutes that premise. Armed with a high school diploma and a
 Lived operational experience matters immensely because practitioners on the ground see the exact points where software systems fail real people. We know what happens when data lists are messy, when workflows drop through the cracks of a team, and when automated systems cause operational friction. 
 
 By building an inclusive ecosystem that elevates self-directed builders, we bring practical, resilient, and reality-tested problem-solving to the policy table. True inclusivity means completely dismantling the elitist credential gates and judging technical prowess entirely by the open-source evidence of what an individual can build.
-
----
-
-## 🎯 4. Structural Alignment for the Roosevelt GoodLife Fellowship
-
-The core mission of the Roosevelt Institute is to challenge concentrated corporate power and rewrite the rules of the economy to achieve shared prosperity. This cannot happen if the most powerful technology of our generation is left to be weaponized by a small group of corporate gatekeepers.
-
-I am applying to the Roosevelt GoodLife AI Fellowship to bring a rare combination of **direct technical execution and non-traditional perspective** to the cohort. I don't just write about data structures abstractly; I build them, automate them, and manage the human teams that run them. I am eager to combine my operational background with structural economic policy research, ensuring we design an open, competitive digital market that truly works for everyone.
