@@ -1,6 +1,6 @@
 # Hi there, I'm an Applied AI Operations & BizOps Specialist 👋
 
-I am a systems-driven **Business Operations (BizOps) Leader** and **AI Practitioner** specializing in workflow automation, large-scale data hygiene, and agile team governance. Certified in AI Framework & Fluency by Anthropic, my work focuses on converting messy, unstructured enterprise data into high-velocity operational pipelines. 
+I am a systems-driven **Business Operations (BizOps) specialist** and **AI Practitioner** specializing in workflow automation, large-scale data hygiene, and agile team governance. Certified in AI Framework & Fluency by Anthropic, my work focuses on converting messy, unstructured enterprise data into high-velocity operational pipelines. 
 
 Beyond systems engineering, I am deeply engaged in structural research regarding AI market shaping, antitrust public policy, and building inclusive tech ecosystems.
 
