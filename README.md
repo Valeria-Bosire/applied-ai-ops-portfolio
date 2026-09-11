@@ -8,7 +8,7 @@ Beyond systems engineering, I am deeply engaged in structural research regarding
 
 ## 🛠️ Core Tech Stack & Competencies
 * **AI Orchestration & Prompting:** Claude LLM (Anthropic), Context-Aware System Prompting, Tool Integration.
-* **Data Architecture & Hygiene:** Baserow (Advanced Relational Formulas, Webhook Logic), Hunter.io API, HubSpot CRM Triage.
+* **Data Architecture & Hygiene:** Baserow (Advanced Relational Formulas), Hunter.io API, HubSpot CRM Triage.
 * **Agile Project Management:** GitLab Maintenance, Jira Sprint Optimization, Pod Operations Leadership, SOP Onboarding Blueprints.
 * **Analytical Research Focus:** AI Market Consolidation, Anti-Monopoly Policy, Global South Digital Infrastructure (Perspectives from Kenya).
 
