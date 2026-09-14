@@ -21,7 +21,7 @@ Beyond systems engineering, I am deeply engaged in structural research regarding
 * **[Automated Deal Intelligence & Matrix Mapping](./crm-icp-intelligence.md):** Orchestrated an LLM-driven market research pipeline to enrich 190 cold CRM accounts with complex Firm Type and AUM data metrics using corporate playbooks.
 * **[Enterprise Knowledge Base Architecture & Migration](./baserow-agile-ops.md):** Flawlessly migrated structured training data for 8 corporate brands from raw HTML into Outline, engineering custom Baserow formula engines and webhook triggers.
 * - **E-Commerce Campaign Architecture & Conversion Engineering (MimiPambo):** Designed and deployed a live, mobile-responsive test campaign focused on micro-conversion strategies, single-column hybrid layouts, and bundle mechanics to drive Average Order Value (AOV). 
-  * [Read Case Study](./) | [Live Demo](https://mimipambo-summer-test-email-campaign.netlify.app/)
+  * [Read Case Study](./ecommerce-campaign-architecture.md) | [Live Demo](https://mimipambo-summer-test-email-campaign.netlify.app/)
 
 
 
