@@ -1,7 +1,7 @@
 # Case Study: E-Commerce Campaign Architecture & Conversion Engineering (MimiPambo)
 
 ## 🌐 Live Production Deployment
-[![Live Demo](https://shields.io)](https://netlify.app)
+[![Live Demo](https://shields.io)](https://mimipambo-summer-test-email-campaign.netlify.app/)
 
 ---
 
@@ -63,5 +63,5 @@ To maximize conversion velocity in a live production environment (such as a Klav
 ---
 
 ## 🔗 Project Navigation
-* **Live Email Build:** [Launch Live Preview via Netlify](https://netlify.app)
+* **Live Email Build:** [Launch Live Preview via Netlify](https://mimipambo-summer-test-email-campaign.netlify.app/)
 * **Core Code Repository:** [Return to Operations Portfolio Directory](./)
